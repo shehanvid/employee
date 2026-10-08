@@ -7,7 +7,7 @@ const productCradWithMockData = () => {
       <ProductCard
       image="https://placehold.co/300x300/png?text=Gear+S3"
       name="Samsung Gear S3 Samsung"
-      category="for Unisex"
+      category="male"
       price={85000}
       isFavorite={fav}
       onFavoriteToggle={() => setFav(!fav)}

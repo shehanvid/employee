@@ -26,7 +26,7 @@ const ProductCard = ({
   };
 
   return (
-    <div className="w-56 bg-white font-sans">
+    <div className="w-56 bg-gray font-sans">
       <div className="relative flex items-center justify-center bg-gray-100 px-4 py-6">
         <button
           type="button"
